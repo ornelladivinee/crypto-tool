@@ -1,0 +1,12 @@
+
+--- LOG ---
+2026-05-06 19:06:55.326390
+Action: caesar
+Input: kakakakj
+Result: ndndndnm
+
+--- LOG ---
+2026-05-06 19:07:10.208430
+Action: vigenere
+Input: jajaja
+Result: bnqwzs
